@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>JU</title>
+</head>
+<body>
+    <div class="header">
+        <div class="tob-bar">
+            <div class="vertical-line">
+            </div>
+                <a href="">
+                    <i class="fa-solid fa-user"></i>
+                    lecture login
+                </a>
+                <div class="vertical-line">
+                </div>
+            <a href="">
+                <i class="fa-solid fa-users"></i>
+                student login
+            </a>
+            <div class="vertical-line">
+            </div>
+            <a href="">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </a>
+        </div>
+        <div class="tob">
+            <div class="t-logo">
+                <a href="">
+                    <img src="Retina.png" alt="">
+                </a>
+            </div>
+            <div class="nav">
+                    <a href="">
+                        <i class="fa-sharp fa-solid fa-house-chimney"></i>
+                        Home
+                    </a>
+                    <a href="">
+                        <i class="fa-solid fa-circle-info"></i>
+                        About
+                    </a>
+                    <a href="">
+                        <i class="fa-solid fa-graduation-cap"></i>
+                        Academics
+                    </a>
+                    <a href="">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                        Research
+                    </a>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
